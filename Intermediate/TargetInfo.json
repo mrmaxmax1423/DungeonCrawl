@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DungeonCrawl",
+			"Path": "E:\\Unreal Projects\\DungeonCrawl\\Source\\DungeonCrawl.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DungeonCrawlEditor",
+			"Path": "E:\\Unreal Projects\\DungeonCrawl\\Source\\DungeonCrawlEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Unreal Projects\\DungeonCrawl\\Source\\DungeonCrawl\\DungeonCrawl.Build.cs",
+		"E:\\Unreal Projects\\DungeonCrawl\\Source\\DungeonCrawl.Target.cs",
+		"E:\\Unreal Projects\\DungeonCrawl\\Source\\DungeonCrawlEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

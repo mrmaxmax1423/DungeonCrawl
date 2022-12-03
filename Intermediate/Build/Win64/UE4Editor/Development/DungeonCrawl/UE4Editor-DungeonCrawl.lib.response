@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DungeonCrawl.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Projects\DungeonCrawl\Intermediate\Build\Win64\DungeonCrawlEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Unreal Projects\DungeonCrawl\Intermediate\Build\Win64\UE4Editor\Development\DungeonCrawl\FP_FirstPersonCharacter.cpp.obj"
+"E:\Unreal Projects\DungeonCrawl\Intermediate\Build\Win64\UE4Editor\Development\DungeonCrawl\FP_FirstPersonGameMode.cpp.obj"
+"E:\Unreal Projects\DungeonCrawl\Intermediate\Build\Win64\UE4Editor\Development\DungeonCrawl\FP_FirstPersonHUD.cpp.obj"
+"E:\Unreal Projects\DungeonCrawl\Intermediate\Build\Win64\UE4Editor\Development\DungeonCrawl\DungeonCrawl.cpp.obj"
+"E:\Unreal Projects\DungeonCrawl\Intermediate\Build\Win64\UE4Editor\Development\DungeonCrawl\DungeonCrawl.init.gen.cpp.obj"
+"E:\Unreal Projects\DungeonCrawl\Intermediate\Build\Win64\UE4Editor\Development\DungeonCrawl\FP_FirstPersonCharacter.gen.cpp.obj"
+"E:\Unreal Projects\DungeonCrawl\Intermediate\Build\Win64\UE4Editor\Development\DungeonCrawl\FP_FirstPersonGameMode.gen.cpp.obj"
+"E:\Unreal Projects\DungeonCrawl\Intermediate\Build\Win64\UE4Editor\Development\DungeonCrawl\FP_FirstPersonHUD.gen.cpp.obj"
+"E:\Unreal Projects\DungeonCrawl\Intermediate\Build\Win64\UE4Editor\Development\DungeonCrawl\Default.rc2.res"
+/OUT:"E:\Unreal Projects\DungeonCrawl\Intermediate\Build\Win64\UE4Editor\Development\DungeonCrawl\UE4Editor-DungeonCrawl.lib"

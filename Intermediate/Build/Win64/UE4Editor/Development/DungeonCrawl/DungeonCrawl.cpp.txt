@@ -1,0 +1,2 @@
+E:\Unreal Projects\DungeonCrawl\Intermediate\Build\Win64\UE4Editor\Development\DungeonCrawl\Definitions.DungeonCrawl.h
+E:\Unreal Projects\DungeonCrawl\Source\DungeonCrawl\DungeonCrawl.h
